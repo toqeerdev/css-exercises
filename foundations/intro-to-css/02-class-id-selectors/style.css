@@ -1,0 +1,21 @@
+.odd-p,
+.odd-p, 
+.odd-p {
+    background-color: rgba(241, 84, 84, 0.479);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.more-unique {
+    font-size: 24px;
+}
+
+#first-id {
+    color: rgb(11, 11, 228);
+    font-size: 36px;
+}
+
+#second-id {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(102, 214, 107);
+}
