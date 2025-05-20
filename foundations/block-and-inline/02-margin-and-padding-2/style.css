@@ -5,23 +5,38 @@ body {
 
 .card {
   width: 400px;
+  height: 200px;
   background: #fff;
   margin: 16px auto;
 }
 
 .title {
   background: #e3f4ff;
+  display: inline-block;
+  width: 370px;
+  margin: 20px 5px 5px 5px;
+  padding: 5px 10px;
+  
 }
 
 .content {
   background: #e3f4ff;
+  margin: 5px 5px 5px 5px;
+  padding: 10px;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  margin: 5px 5px 20px 5px;
+  height: 55px;
+  
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 2px auto;
+  padding: 5px;
 }
